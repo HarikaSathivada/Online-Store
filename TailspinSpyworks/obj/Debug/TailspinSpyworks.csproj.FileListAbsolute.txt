@@ -1,0 +1,15 @@
+c:\documents and settings\user\my documents\visual studio 2010\Projects\TailspinSpyworks\TailspinSpyworks\bin\TailspinSpyworks.dll
+c:\documents and settings\user\my documents\visual studio 2010\Projects\TailspinSpyworks\TailspinSpyworks\bin\TailspinSpyworks.pdb
+c:\documents and settings\user\my documents\visual studio 2010\Projects\TailspinSpyworks\TailspinSpyworks\obj\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\user\my documents\visual studio 2010\Projects\TailspinSpyworks\TailspinSpyworks\obj\Debug\TailspinSpyworks.dll
+c:\documents and settings\user\my documents\visual studio 2010\Projects\TailspinSpyworks\TailspinSpyworks\obj\Debug\TailspinSpyworks.pdb
+C:\Documents and Settings\user\Desktop\Today\TailspinSpyworks\TailspinSpyworks\bin\TailspinSpyworks.dll
+C:\Documents and Settings\user\Desktop\Today\TailspinSpyworks\TailspinSpyworks\bin\TailspinSpyworks.pdb
+C:\Documents and Settings\user\Desktop\Today\TailspinSpyworks\TailspinSpyworks\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\user\Desktop\Today\TailspinSpyworks\TailspinSpyworks\obj\Debug\TailspinSpyworks.dll
+C:\Documents and Settings\user\Desktop\Today\TailspinSpyworks\TailspinSpyworks\obj\Debug\TailspinSpyworks.pdb
+C:\Documents and Settings\user\Desktop\Today\Online Store\TailspinSpyworks\bin\TailspinSpyworks.dll
+C:\Documents and Settings\user\Desktop\Today\Online Store\TailspinSpyworks\bin\TailspinSpyworks.pdb
+C:\Documents and Settings\user\Desktop\Today\Online Store\TailspinSpyworks\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\user\Desktop\Today\Online Store\TailspinSpyworks\obj\Debug\TailspinSpyworks.dll
+C:\Documents and Settings\user\Desktop\Today\Online Store\TailspinSpyworks\obj\Debug\TailspinSpyworks.pdb
